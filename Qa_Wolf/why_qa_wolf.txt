@@ -1,0 +1,32 @@
+Author: Michael Adogeri
+Date: 10-16-2024
+Title: QA Take Home Questionaire
+
+1. A link to a zip file of this folder on Google Drive
+    - 
+
+2. A note indicating your work location (Country/State)
+    - United States (USA) / Louisiana
+
+3. A note of how you found this job post (LinkedIn, Handshake, Wellfound, referral, etc.)
+    - Handshake:
+        I am part of the Handshake community from attending the University of New Orleans (UNO).
+    - institution: The University of New Orleans (UNO) 
+    - Account: madogeri@uno.edu
+
+4. A note on why you want to work for QA Wolf ~(Junior Software Engineer - QA)
+    - I admire your companies commitment to sustainability and innovation. I want to be part of 
+      the QA assessment team to help build and maintain end-to-end test automation for customers
+      and clients. 
+    - Moreso, this position aligns with some co-related skill set and experience I've obtained
+      over the course of my career. Such skill set is the incorporation of javascript and node.js 
+      which i used to build react-native mobile application. If needed, I can showcase a simulation 
+      of my project during the 2hr work session.
+    - Finally, upon filling out this job appliaction, I researched your company and liked some of 
+      the products and services you utilize, such as: the Microsoft Playwright framework, specialized via.
+      optimized kubernetes for managing containerized workloads/services. I would like to be part 
+      of your team to help with test runs and investigate any uprising failures to come up with a
+      derived optimal solution.
+
+      5. link to video: walkthrough + QA
+        - https://www.loom.com/share/370ba8e7167242bb8b24b84eb59c26ab?sid=fcae354c-ef06-47d2-923d-2757b00baf2d
